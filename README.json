@@ -101,7 +101,7 @@
             "last_commit": "2026-06-07T18:38:18Z",
             "owner": "juliocesarfort",
             "repo": "public-pentesting-reports",
-            "stars": 9680
+            "stars": 9682
           }
         },
         {
@@ -319,7 +319,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T12:41:59Z",
+            "last_commit": "2026-08-14T14:59:16Z",
             "owner": "izar",
             "repo": "pytm",
             "stars": 22
@@ -340,7 +340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T17:28:56.322Z",
+    "last_updated": "2026-08-14T17:28:45.751Z",
     "original_repository": "hysnsec/awesome-threat-modelling",
     "original_repository_sha": "c60fb0a82371c8ce557afbdfe903860ae959e9b3",
     "enhanced_repository": "enhansome/enhansome-threat-modelling",
