@@ -193,7 +193,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 *Threat model examples for reference.*
 
-* [Threat Modeling Trinity](https://github.com/juliocesarfort/public-pentesting-reports/blob/master/COMSATS_Islamabad-CyberSecurityLab/Threat_Modeling_Trinity_Wallet.pdf) ⭐ 9,682 | 🐛 16 | 🌐 HTML | 📅 2026-06-07
+* [Threat Modeling Trinity](https://github.com/juliocesarfort/public-pentesting-reports/blob/master/COMSATS_Islamabad-CyberSecurityLab/Threat_Modeling_Trinity_Wallet.pdf) ⭐ 9,684 | 🐛 16 | 🌐 HTML | 📅 2026-06-07
 
 * [Container Threat Model](https://github.com/krol3/container-security-checklist#container-threat-model) ⭐ 1,619 | 🐛 1 | 📅 2025-09-15
 
@@ -263,7 +263,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 * [Owasp-threat-dragon-gitlab](https://github.com/appsecco/owasp-threat-dragon-gitlab) ⭐ 27 | 🐛 2 | 🌐 JavaScript | 📅 2017-11-06 - This project is a fork of the original OWASP Threat Dragon web application by Mike Goodwin with Gitlab integration instead of GitHub. You can use it with the Gitlab.com or your own instance of Gitlab.
 
-* [PyTM](https://github.com/izar/pytm) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2026-08-14 - PyTM is an open source project providing a library for threat modeling with code. Describe your system using OO syntax (object.property = value) and have your threat modeling report automatically generated. 100+ threats currently supported.
+* [PyTM](https://github.com/izar/pytm) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2026-08-14 - PyTM is an open source project providing a library for threat modeling with code. Describe your system using OO syntax (object.property = value) and have your threat modeling report automatically generated. 100+ threats currently supported.
 
 * [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/) - An online threat modelling web application including system diagramming and a rule engine to auto-generate threats/mitigations.
 
@@ -291,4 +291,4 @@ Please refer the guidelines at [contributing.md for details](Contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
