@@ -255,7 +255,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 * [Deciduous](https://github.com/rpetrich/deciduous) ⭐ 236 | 🐛 8 | 🌐 HTML | 📅 2024-07-11 - A web app that simplifies building attack decision trees. Hosted at <https://www.deciduous.app/>
 
-* [Threat Modeling Online Game](https://github.com/dehydr8/elevation-of-privilege) ⭐ 164 | 🐛 33 | 🌐 JavaScript | 📅 2026-08-02 - Online version of the Elevation of Privilege and Cornucopia card games. The easy way to get started with threat modeling.
+* [Threat Modeling Online Game](https://github.com/dehydr8/elevation-of-privilege) ⭐ 165 | 🐛 33 | 🌐 JavaScript | 📅 2026-08-02 - Online version of the Elevation of Privilege and Cornucopia card games. The easy way to get started with threat modeling.
 
 * [TicTaaC](https://github.com/rusakovichma/TicTaaC) ⭐ 73 | 🐛 5 | 🌐 Java | 📅 2025-06-25 - Threat modeling-as-a-Code in a Tick (TicTaaC). Lightweight and easy-to-use Threat modeling solution following DevSecOps principles
 
@@ -291,4 +291,4 @@ Please refer the guidelines at [contributing.md for details](Contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._

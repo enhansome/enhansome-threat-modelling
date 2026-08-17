@@ -266,7 +266,7 @@
             "last_commit": "2026-08-02T04:56:06Z",
             "owner": "dehydr8",
             "repo": "elevation-of-privilege",
-            "stars": 164
+            "stars": 165
           }
         },
         {
@@ -340,7 +340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T16:50:36.407Z",
+    "last_updated": "2026-08-17T16:55:19.352Z",
     "original_repository": "hysnsec/awesome-threat-modelling",
     "original_repository_sha": "c60fb0a82371c8ce557afbdfe903860ae959e9b3",
     "enhanced_repository": "enhansome/enhansome-threat-modelling",
