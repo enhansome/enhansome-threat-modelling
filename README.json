@@ -19,7 +19,7 @@
             "last_commit": "2023-03-14T10:35:20Z",
             "owner": "geoffrey-hill-tutamantic",
             "repo": "rapid-threat-model-prototyping-docs",
-            "stars": 165
+            "stars": 164
           }
         },
         {
@@ -129,7 +129,7 @@
             "last_commit": "2021-11-10T03:18:14Z",
             "owner": "OWASP",
             "repo": "threat-model-cookbook",
-            "stars": 430
+            "stars": 429
           }
         },
         {
@@ -238,7 +238,7 @@
             "last_commit": "2026-04-08T18:30:26Z",
             "owner": "Threagile",
             "repo": "threagile",
-            "stars": 778
+            "stars": 777
           }
         },
         {
@@ -340,7 +340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T16:55:19.352Z",
+    "last_updated": "2026-08-18T16:58:09.515Z",
     "original_repository": "hysnsec/awesome-threat-modelling",
     "original_repository_sha": "c60fb0a82371c8ce557afbdfe903860ae959e9b3",
     "enhanced_repository": "enhansome/enhansome-threat-modelling",

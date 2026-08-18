@@ -43,7 +43,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Free
 
-* [Rapid Threat Model Prototyping (RTMP)](https://github.com/geoffrey-hill-tutamantic/rapid-threat-model-prototyping-docs) ⭐ 165 | 🐛 1 | 📅 2023-03-14 - Methodology to create quick threat models (1) add threat metadata describing the threats and mitigations directly to software diagrams using 11 simple and repeatable steps (2) integrate these steps into Agile workstreams (3) how to best use the outputs of a threat model (Threats & Mitigations)
+* [Rapid Threat Model Prototyping (RTMP)](https://github.com/geoffrey-hill-tutamantic/rapid-threat-model-prototyping-docs) ⭐ 164 | 🐛 1 | 📅 2023-03-14 - Methodology to create quick threat models (1) add threat metadata describing the threats and mitigations directly to software diagrams using 11 simple and repeatable steps (2) integrate these steps into Agile workstreams (3) how to best use the outputs of a threat model (Threats & Mitigations)
 
 * [Threat Modeling Workshop by Robert Hurlbut](https://github.com/rhurlbut/CodeMash2019/blob/master/Robert-Hurlbut-CodeMash2019-Threat-Modeling-Workshop-20190108.pdf) ⭐ 6 | 🐛 0 | 📅 2019-01-09
 
@@ -251,7 +251,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 * [drawio-threatmodeling](https://github.com/michenriksen/drawio-threatmodeling) ⭐ 800 | 🐛 4 | 📅 2020-11-12 - A collection of custom libraries to turn the free and cross-platform Draw\.io diagramming application into the perfect tool for threat modeling.
 
-* [Threagile](https://github.com/Threagile/threagile) ⭐ 778 | 🐛 51 | 🌐 Go | 📅 2026-04-08 - Threagile is an open-source toolkit for agile threat modeling
+* [Threagile](https://github.com/Threagile/threagile) ⭐ 777 | 🐛 51 | 🌐 Go | 📅 2026-04-08 - Threagile is an open-source toolkit for agile threat modeling
 
 * [Deciduous](https://github.com/rpetrich/deciduous) ⭐ 236 | 🐛 8 | 🌐 HTML | 📅 2024-07-11 - A web app that simplifies building attack decision trees. Hosted at <https://www.deciduous.app/>
 
@@ -291,4 +291,4 @@ Please refer the guidelines at [contributing.md for details](Contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
