@@ -2,42 +2,46 @@
   "items": [
     {
       "description": "Courses/Training videos on threat modeling.",
-      "items": [],
-      "title": "Courses"
-    },
-    {
-      "description": "",
       "items": [
         {
-          "node_type": "item",
-          "title": "Rapid Threat Model Prototyping (RTMP)",
-          "description": "Methodology to create quick threat models (1) add threat metadata describing the threats and mitigations directly to software diagrams using 11 simple and repeatable steps (2) integrate these steps into Agile workstreams (3) how to best use the outputs of a threat model (Threats & Mitigations)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-03-14T10:35:20Z",
-            "owner": "geoffrey-hill-tutamantic",
-            "repo": "rapid-threat-model-prototyping-docs",
-            "stars": 164
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Threat Modeling Workshop by Robert Hurlbut",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Rapid Threat Model Prototyping (RTMP)",
+              "description": "Methodology to create quick threat models (1) add threat metadata describing the threats and mitigations directly to software diagrams using 11 simple and repeatable steps (2) integrate these steps into Agile workstreams (3) how to best use the outputs of a threat model (Threats & Mitigations)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147913294,
+                "language": null,
+                "last_commit": "2023-03-14T10:35:20Z",
+                "owner": "geoffrey-hill-tutamantic",
+                "repo": "rapid-threat-model-prototyping-docs",
+                "stars": 164
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Threat Modeling Workshop by Robert Hurlbut",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163854310,
+                "language": null,
+                "last_commit": "2019-01-09T16:46:23Z",
+                "owner": "rhurlbut",
+                "repo": "CodeMash2019",
+                "stars": 6
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2019-01-09T16:46:23Z",
-            "owner": "rhurlbut",
-            "repo": "CodeMash2019",
-            "stars": 6
-          }
+          "node_type": "group",
+          "title": "Free"
         }
       ],
-      "title": "Free"
+      "title": "Courses"
     },
     {
       "description": "Tutorials and blogs that explain threat modeling",
@@ -49,6 +53,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 418565888,
             "language": null,
             "last_commit": "2026-05-31T13:59:10Z",
             "owner": "rung",
@@ -63,11 +68,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 469380734,
             "language": null,
             "last_commit": "2023-01-18T15:58:36Z",
             "owner": "cider-security-research",
             "repo": "top-10-cicd-security-risks",
-            "stars": 428
+            "stars": 429
           }
         },
         {
@@ -77,6 +83,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 184290900,
             "language": null,
             "last_commit": "2022-07-19T05:18:02Z",
             "owner": "cncf",
@@ -97,11 +104,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65019435,
             "language": "HTML",
             "last_commit": "2026-06-07T18:38:18Z",
             "owner": "juliocesarfort",
             "repo": "public-pentesting-reports",
-            "stars": 9684
+            "stars": 9686
           }
         },
         {
@@ -111,6 +119,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 345480693,
             "language": null,
             "last_commit": "2025-09-15T19:51:50Z",
             "owner": "krol3",
@@ -125,6 +134,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 60265989,
             "language": "Python",
             "last_commit": "2021-11-10T03:18:14Z",
             "owner": "OWASP",
@@ -139,6 +149,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 406153124,
             "language": "Go",
             "last_commit": "2026-08-07T15:24:56Z",
             "owner": "kubernetes",
@@ -153,6 +164,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110025384,
             "language": null,
             "last_commit": "2023-05-02T10:20:19Z",
             "owner": "JWWeatherman",
@@ -167,6 +179,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 211527425,
             "language": "Makefile",
             "last_commit": "2019-10-08T14:57:01Z",
             "owner": "kkredit",
@@ -181,6 +194,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111236559,
             "language": null,
             "last_commit": "2019-01-26T00:06:38Z",
             "owner": "JWWeatherman",
@@ -195,6 +209,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 245139394,
             "language": "JetBrains MPS",
             "last_commit": "2026-07-02T23:02:34Z",
             "owner": "itemisCREATE",
@@ -207,141 +222,142 @@
     },
     {
       "description": "Tools which helps in threat modelling.",
-      "items": [],
-      "title": "Tools"
-    },
-    {
-      "description": "",
       "items": [
         {
-          "node_type": "item",
-          "title": "drawio-threatmodeling",
-          "description": "A collection of custom libraries to turn the free and cross-platform Draw.io diagramming application into the perfect tool for threat modeling.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-11-12T01:52:27Z",
-            "owner": "michenriksen",
-            "repo": "drawio-threatmodeling",
-            "stars": 800
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Threagile",
-          "description": "Threagile is an open-source toolkit for agile threat modeling",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-04-08T18:30:26Z",
-            "owner": "Threagile",
-            "repo": "threagile",
-            "stars": 777
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Deciduous",
-          "description": "A web app that simplifies building attack decision trees. Hosted at https://www.deciduous.app/",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-07-11T09:33:36Z",
-            "owner": "rpetrich",
-            "repo": "deciduous",
-            "stars": 236
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Threat Modeling Online Game",
-          "description": "Online version of the Elevation of Privilege and Cornucopia card games. The easy way to get started with threat modeling.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-02T04:56:06Z",
-            "owner": "dehydr8",
-            "repo": "elevation-of-privilege",
-            "stars": 165
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TicTaaC",
-          "description": "Threat modeling-as-a-Code in a Tick (TicTaaC). Lightweight and easy-to-use Threat modeling solution following DevSecOps principles",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2025-06-25T09:59:40Z",
-            "owner": "rusakovichma",
-            "repo": "TicTaaC",
-            "stars": 73
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Raindance",
-          "description": "Project intended to make Attack Maps part of software development by reducing the time it takes to complete them.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "GCC Machine Description",
-            "last_commit": "2016-11-24T16:14:05Z",
-            "owner": "devsecops",
-            "repo": "raindance",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Owasp-threat-dragon-gitlab",
-          "description": "This project is a fork of the original OWASP Threat Dragon web application by Mike Goodwin with Gitlab integration instead of GitHub. You can use it with the Gitlab.com or your own instance of Gitlab.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-11-06T09:43:09Z",
-            "owner": "appsecco",
-            "repo": "owasp-threat-dragon-gitlab",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PyTM",
-          "description": "PyTM is an open source project providing a library for threat modeling with code. Describe your system using OO syntax (object.property = value) and have your threat modeling report automatically generated. 100+ threats currently supported.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T14:59:16Z",
-            "owner": "izar",
-            "repo": "pytm",
-            "stars": 23
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "drawio-threatmodeling",
+              "description": "A collection of custom libraries to turn the free and cross-platform Draw.io diagramming application into the perfect tool for threat modeling.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151041484,
+                "language": null,
+                "last_commit": "2020-11-12T01:52:27Z",
+                "owner": "michenriksen",
+                "repo": "drawio-threatmodeling",
+                "stars": 800
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Threagile",
+              "description": "Threagile is an open-source toolkit for agile threat modeling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 284951208,
+                "language": "Go",
+                "last_commit": "2026-04-08T18:30:26Z",
+                "owner": "Threagile",
+                "repo": "threagile",
+                "stars": 778
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Deciduous",
+              "description": "A web app that simplifies building attack decision trees. Hosted at https://www.deciduous.app/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 381168058,
+                "language": "HTML",
+                "last_commit": "2024-07-11T09:33:36Z",
+                "owner": "rpetrich",
+                "repo": "deciduous",
+                "stars": 236
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Threat Modeling Online Game",
+              "description": "Online version of the Elevation of Privilege and Cornucopia card games. The easy way to get started with threat modeling.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 201052325,
+                "language": "JavaScript",
+                "last_commit": "2026-08-02T04:56:06Z",
+                "owner": "dehydr8",
+                "repo": "elevation-of-privilege",
+                "stars": 165
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TicTaaC",
+              "description": "Threat modeling-as-a-Code in a Tick (TicTaaC). Lightweight and easy-to-use Threat modeling solution following DevSecOps principles",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 400129809,
+                "language": "Java",
+                "last_commit": "2025-06-25T09:59:40Z",
+                "owner": "rusakovichma",
+                "repo": "TicTaaC",
+                "stars": 73
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Raindance",
+              "description": "Project intended to make Attack Maps part of software development by reducing the time it takes to complete them.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55040255,
+                "language": "GCC Machine Description",
+                "last_commit": "2016-11-24T16:14:05Z",
+                "owner": "devsecops",
+                "repo": "raindance",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Owasp-threat-dragon-gitlab",
+              "description": "This project is a fork of the original OWASP Threat Dragon web application by Mike Goodwin with Gitlab integration instead of GitHub. You can use it with the Gitlab.com or your own instance of Gitlab.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 109265422,
+                "language": "JavaScript",
+                "last_commit": "2017-11-06T09:43:09Z",
+                "owner": "appsecco",
+                "repo": "owasp-threat-dragon-gitlab",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PyTM",
+              "description": "PyTM is an open source project providing a library for threat modeling with code. Describe your system using OO syntax (object.property = value) and have your threat modeling report automatically generated. 100+ threats currently supported.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1095940013,
+                "language": "Python",
+                "last_commit": "2026-08-14T14:59:16Z",
+                "owner": "izar",
+                "repo": "pytm",
+                "stars": 23
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Free tools"
         }
       ],
-      "title": "Free tools"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Sponsor"
-    },
-    {
-      "description": "Please refer the guidelines at contributing.md for details.",
-      "items": [],
-      "title": "Contributing"
+      "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:58:09.515Z",
+    "last_updated": "2026-08-19T12:54:32.306Z",
     "original_repository": "hysnsec/awesome-threat-modelling",
+    "original_repository_id": 230712512,
     "original_repository_sha": "c60fb0a82371c8ce557afbdfe903860ae959e9b3",
     "enhanced_repository": "enhansome/enhansome-threat-modelling",
     "enhanced_repository_description": null,
