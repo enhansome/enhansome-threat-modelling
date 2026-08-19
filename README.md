@@ -199,7 +199,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 * [OWASP Threat Model Cookbook](https://github.com/OWASP/threat-model-cookbook) ⚠️ Archived
 
-* [Kubernetes Threat Model](https://github.com/kubernetes/sig-security/tree/main/sig-security-external-audit/security-audit-2019/findings) ⭐ 249 | 🐛 17 | 🌐 Go | 📅 2026-08-07
+* [Kubernetes Threat Model](https://github.com/kubernetes/sig-security/tree/main/sig-security-external-audit/security-audit-2019/findings) ⭐ 249 | 🐛 18 | 🌐 Go | 📅 2026-08-07
 
 * [Bitcoin](https://github.com/JWWeatherman/bitcoin_security_threat_model) ⭐ 78 | 🐛 15 | 📅 2023-05-02
 
