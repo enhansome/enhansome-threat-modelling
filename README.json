@@ -109,7 +109,7 @@
             "last_commit": "2026-06-07T18:38:18Z",
             "owner": "juliocesarfort",
             "repo": "public-pentesting-reports",
-            "stars": 9686
+            "stars": 9685
           }
         },
         {
@@ -252,7 +252,7 @@
                 "last_commit": "2026-04-08T18:30:26Z",
                 "owner": "Threagile",
                 "repo": "threagile",
-                "stars": 778
+                "stars": 779
               }
             },
             {
@@ -355,7 +355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T16:55:56.766Z",
+    "last_updated": "2026-08-20T17:01:02.112Z",
     "original_repository": "hysnsec/awesome-threat-modelling",
     "original_repository_id": 230712512,
     "original_repository_sha": "c60fb0a82371c8ce557afbdfe903860ae959e9b3",
