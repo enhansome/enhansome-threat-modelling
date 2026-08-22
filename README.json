@@ -109,7 +109,7 @@
             "last_commit": "2026-06-07T18:38:18Z",
             "owner": "juliocesarfort",
             "repo": "public-pentesting-reports",
-            "stars": 9687
+            "stars": 9688
           }
         },
         {
@@ -211,7 +211,7 @@
             "archived": false,
             "id": 245139394,
             "language": "JetBrains MPS",
-            "last_commit": "2026-07-02T23:02:34Z",
+            "last_commit": "2026-08-21T22:40:29Z",
             "owner": "itemisCREATE",
             "repo": "itemis-SECURE-examples",
             "stars": 13
@@ -267,7 +267,7 @@
                 "last_commit": "2024-07-11T09:33:36Z",
                 "owner": "rpetrich",
                 "repo": "deciduous",
-                "stars": 236
+                "stars": 235
               }
             },
             {
@@ -355,7 +355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T17:01:26.220Z",
+    "last_updated": "2026-08-22T16:49:45.846Z",
     "original_repository": "hysnsec/awesome-threat-modelling",
     "original_repository_id": 230712512,
     "original_repository_sha": "c60fb0a82371c8ce557afbdfe903860ae959e9b3",
