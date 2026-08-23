@@ -121,7 +121,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 * [Threat Matrix  CI/CD](https://github.com/rung/threat-matrix-cicd) ⭐ 776 | 🐛 1 | 📅 2026-05-31
 
-* [Top 10 CI/CD Security Risks](https://github.com/cider-security-research/top-10-cicd-security-risks) ⭐ 429 | 🐛 3 | 📅 2023-01-18
+* [Top 10 CI/CD Security Risks](https://github.com/cider-security-research/top-10-cicd-security-risks) ⭐ 428 | 🐛 3 | 📅 2023-01-18
 
 * [Kubernetes Attack Trees](https://github.com/cncf/financial-user-group/tree/main/projects/k8s-threat-model) ⚠️ Archived
 
@@ -291,4 +291,4 @@ Please refer the guidelines at [contributing.md for details](Contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._

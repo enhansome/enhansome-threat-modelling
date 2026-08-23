@@ -73,7 +73,7 @@
             "last_commit": "2023-01-18T15:58:36Z",
             "owner": "cider-security-research",
             "repo": "top-10-cicd-security-risks",
-            "stars": 429
+            "stars": 428
           }
         },
         {
@@ -355,7 +355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T16:49:45.846Z",
+    "last_updated": "2026-08-23T16:51:41.327Z",
     "original_repository": "hysnsec/awesome-threat-modelling",
     "original_repository_id": 230712512,
     "original_repository_sha": "c60fb0a82371c8ce557afbdfe903860ae959e9b3",
