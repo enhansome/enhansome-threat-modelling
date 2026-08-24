@@ -58,7 +58,7 @@
             "last_commit": "2026-05-31T13:59:10Z",
             "owner": "rung",
             "repo": "threat-matrix-cicd",
-            "stars": 776
+            "stars": 775
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2026-06-07T18:38:18Z",
             "owner": "juliocesarfort",
             "repo": "public-pentesting-reports",
-            "stars": 9688
+            "stars": 9689
           }
         },
         {
@@ -237,7 +237,7 @@
                 "last_commit": "2020-11-12T01:52:27Z",
                 "owner": "michenriksen",
                 "repo": "drawio-threatmodeling",
-                "stars": 800
+                "stars": 802
               }
             },
             {
@@ -355,7 +355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:51:41.327Z",
+    "last_updated": "2026-08-24T14:07:03.993Z",
     "original_repository": "hysnsec/awesome-threat-modelling",
     "original_repository_id": 230712512,
     "original_repository_sha": "c60fb0a82371c8ce557afbdfe903860ae959e9b3",
