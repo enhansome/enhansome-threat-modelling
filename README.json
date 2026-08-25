@@ -109,7 +109,7 @@
             "last_commit": "2026-06-07T18:38:18Z",
             "owner": "juliocesarfort",
             "repo": "public-pentesting-reports",
-            "stars": 9689
+            "stars": 9690
           }
         },
         {
@@ -124,7 +124,7 @@
             "last_commit": "2025-09-15T19:51:50Z",
             "owner": "krol3",
             "repo": "container-security-checklist",
-            "stars": 1619
+            "stars": 1621
           }
         },
         {
@@ -355,7 +355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:04:44.695Z",
+    "last_updated": "2026-08-25T06:02:12.513Z",
     "original_repository": "hysnsec/awesome-threat-modelling",
     "original_repository_id": 230712512,
     "original_repository_sha": "c60fb0a82371c8ce557afbdfe903860ae959e9b3",
