@@ -109,7 +109,7 @@
             "last_commit": "2026-06-07T18:38:18Z",
             "owner": "juliocesarfort",
             "repo": "public-pentesting-reports",
-            "stars": 9690
+            "stars": 9692
           }
         },
         {
@@ -124,7 +124,7 @@
             "last_commit": "2025-09-15T19:51:50Z",
             "owner": "krol3",
             "repo": "container-security-checklist",
-            "stars": 1621
+            "stars": 1620
           }
         },
         {
@@ -151,7 +151,7 @@
             "archived": false,
             "id": 406153124,
             "language": "Go",
-            "last_commit": "2026-08-07T15:24:56Z",
+            "last_commit": "2026-08-26T17:17:40Z",
             "owner": "kubernetes",
             "repo": "sig-security",
             "stars": 249
@@ -342,7 +342,7 @@
                 "last_commit": "2026-08-14T14:59:16Z",
                 "owner": "izar",
                 "repo": "pytm",
-                "stars": 23
+                "stars": 24
               }
             }
           ],
@@ -355,7 +355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:05:03.866Z",
+    "last_updated": "2026-08-26T18:15:41.432Z",
     "original_repository": "hysnsec/awesome-threat-modelling",
     "original_repository_id": 230712512,
     "original_repository_sha": "c60fb0a82371c8ce557afbdfe903860ae959e9b3",
