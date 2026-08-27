@@ -109,7 +109,7 @@
             "last_commit": "2026-06-07T18:38:18Z",
             "owner": "juliocesarfort",
             "repo": "public-pentesting-reports",
-            "stars": 9692
+            "stars": 9693
           }
         },
         {
@@ -355,9 +355,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T18:15:41.432Z",
-    "original_repository": "hysnsec/awesome-threat-modelling",
-    "original_repository_id": 230712512,
+    "last_updated": "2026-08-27T12:09:32.093Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 230712512,
+      "language": "Dockerfile",
+      "last_commit": "2024-08-02T19:02:17Z",
+      "owner": "hysnsec",
+      "repo": "awesome-threat-modelling",
+      "stars": 1802
+    },
     "original_repository_sha": "c60fb0a82371c8ce557afbdfe903860ae959e9b3",
     "enhanced_repository": "enhansome/enhansome-threat-modelling",
     "enhanced_repository_description": null,
