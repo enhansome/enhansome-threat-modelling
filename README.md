@@ -121,7 +121,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 * [Threat Matrix  CI/CD](https://github.com/rung/threat-matrix-cicd) ⭐ 775 | 🐛 1 | 📅 2026-05-31
 
-* [Top 10 CI/CD Security Risks](https://github.com/cider-security-research/top-10-cicd-security-risks) ⭐ 428 | 🐛 3 | 📅 2023-01-18
+* [Top 10 CI/CD Security Risks](https://github.com/cider-security-research/top-10-cicd-security-risks) ⭐ 429 | 🐛 3 | 📅 2023-01-18
 
 * [Kubernetes Attack Trees](https://github.com/cncf/financial-user-group/tree/main/projects/k8s-threat-model) ⚠️ Archived
 
@@ -193,7 +193,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 *Threat model examples for reference.*
 
-* [Threat Modeling Trinity](https://github.com/juliocesarfort/public-pentesting-reports/blob/master/COMSATS_Islamabad-CyberSecurityLab/Threat_Modeling_Trinity_Wallet.pdf) ⭐ 9,693 | 🐛 16 | 🌐 HTML | 📅 2026-06-07
+* [Threat Modeling Trinity](https://github.com/juliocesarfort/public-pentesting-reports/blob/master/COMSATS_Islamabad-CyberSecurityLab/Threat_Modeling_Trinity_Wallet.pdf) ⭐ 9,699 | 🐛 16 | 🌐 HTML | 📅 2026-06-07
 
 * [Container Threat Model](https://github.com/krol3/container-security-checklist#container-threat-model) ⭐ 1,620 | 🐛 1 | 📅 2025-09-15
 
@@ -291,4 +291,4 @@ Please refer the guidelines at [contributing.md for details](Contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

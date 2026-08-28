@@ -73,7 +73,7 @@
             "last_commit": "2023-01-18T15:58:36Z",
             "owner": "cider-security-research",
             "repo": "top-10-cicd-security-risks",
-            "stars": 428
+            "stars": 429
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2026-06-07T18:38:18Z",
             "owner": "juliocesarfort",
             "repo": "public-pentesting-reports",
-            "stars": 9693
+            "stars": 9699
           }
         },
         {
@@ -355,7 +355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:09:32.093Z",
+    "last_updated": "2026-08-28T01:02:48.099Z",
     "original_repository_info": {
       "archived": false,
       "id": 230712512,
