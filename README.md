@@ -249,11 +249,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Free tools
 
-* [drawio-threatmodeling](https://github.com/michenriksen/drawio-threatmodeling) ⭐ 802 | 🐛 4 | 📅 2020-11-12 - A collection of custom libraries to turn the free and cross-platform Draw\.io diagramming application into the perfect tool for threat modeling.
+* [drawio-threatmodeling](https://github.com/michenriksen/drawio-threatmodeling) ⭐ 803 | 🐛 4 | 📅 2020-11-12 - A collection of custom libraries to turn the free and cross-platform Draw\.io diagramming application into the perfect tool for threat modeling.
 
 * [Threagile](https://github.com/Threagile/threagile) ⭐ 779 | 🐛 51 | 🌐 Go | 📅 2026-04-08 - Threagile is an open-source toolkit for agile threat modeling
 
-* [Deciduous](https://github.com/rpetrich/deciduous) ⭐ 235 | 🐛 8 | 🌐 HTML | 📅 2024-07-11 - A web app that simplifies building attack decision trees. Hosted at <https://www.deciduous.app/>
+* [Deciduous](https://github.com/rpetrich/deciduous) ⭐ 235 | 🐛 9 | 🌐 HTML | 📅 2024-07-11 - A web app that simplifies building attack decision trees. Hosted at <https://www.deciduous.app/>
 
 * [Threat Modeling Online Game](https://github.com/dehydr8/elevation-of-privilege) ⭐ 165 | 🐛 33 | 🌐 JavaScript | 📅 2026-08-02 - Online version of the Elevation of Privilege and Cornucopia card games. The easy way to get started with threat modeling.
 
@@ -291,4 +291,4 @@ Please refer the guidelines at [contributing.md for details](Contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

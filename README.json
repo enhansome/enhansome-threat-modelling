@@ -18,7 +18,8 @@
                 "owner": "geoffrey-hill-tutamantic",
                 "repo": "rapid-threat-model-prototyping-docs",
                 "stars": 164
-              }
+              },
+              "first_seen": "2026-08-29T00:37:07.429Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "rhurlbut",
                 "repo": "CodeMash2019",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:37:07.429Z"
             }
           ],
           "description": null,
@@ -59,7 +61,8 @@
             "owner": "rung",
             "repo": "threat-matrix-cicd",
             "stars": 775
-          }
+          },
+          "first_seen": "2026-08-29T00:37:07.429Z"
         },
         {
           "node_type": "item",
@@ -74,7 +77,8 @@
             "owner": "cider-security-research",
             "repo": "top-10-cicd-security-risks",
             "stars": 429
-          }
+          },
+          "first_seen": "2026-08-29T00:37:07.429Z"
         },
         {
           "node_type": "item",
@@ -89,7 +93,8 @@
             "owner": "cncf",
             "repo": "financial-user-group",
             "stars": 313
-          }
+          },
+          "first_seen": "2026-08-29T00:37:07.429Z"
         }
       ],
       "title": "Tutorials and Blogs"
@@ -110,7 +115,8 @@
             "owner": "juliocesarfort",
             "repo": "public-pentesting-reports",
             "stars": 9699
-          }
+          },
+          "first_seen": "2026-08-29T00:37:07.429Z"
         },
         {
           "node_type": "item",
@@ -125,7 +131,8 @@
             "owner": "krol3",
             "repo": "container-security-checklist",
             "stars": 1620
-          }
+          },
+          "first_seen": "2026-08-29T00:37:07.429Z"
         },
         {
           "node_type": "item",
@@ -140,7 +147,8 @@
             "owner": "OWASP",
             "repo": "threat-model-cookbook",
             "stars": 429
-          }
+          },
+          "first_seen": "2026-08-29T00:37:07.429Z"
         },
         {
           "node_type": "item",
@@ -155,7 +163,8 @@
             "owner": "kubernetes",
             "repo": "sig-security",
             "stars": 249
-          }
+          },
+          "first_seen": "2026-08-29T00:37:07.429Z"
         },
         {
           "node_type": "item",
@@ -170,7 +179,8 @@
             "owner": "JWWeatherman",
             "repo": "bitcoin_security_threat_model",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-29T00:37:07.429Z"
         },
         {
           "node_type": "item",
@@ -185,7 +195,8 @@
             "owner": "kkredit",
             "repo": "smart-home-threat-model",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T00:37:07.429Z"
         },
         {
           "node_type": "item",
@@ -200,7 +211,8 @@
             "owner": "JWWeatherman",
             "repo": "human_threat_model",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T00:37:07.429Z"
         },
         {
           "node_type": "item",
@@ -215,7 +227,8 @@
             "owner": "itemisCREATE",
             "repo": "itemis-SECURE-examples",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T00:37:07.429Z"
         }
       ],
       "title": "Threat Model examples"
@@ -237,8 +250,9 @@
                 "last_commit": "2020-11-12T01:52:27Z",
                 "owner": "michenriksen",
                 "repo": "drawio-threatmodeling",
-                "stars": 802
-              }
+                "stars": 803
+              },
+              "first_seen": "2026-08-29T00:37:07.429Z"
             },
             {
               "node_type": "item",
@@ -253,7 +267,8 @@
                 "owner": "Threagile",
                 "repo": "threagile",
                 "stars": 779
-              }
+              },
+              "first_seen": "2026-08-29T00:37:07.429Z"
             },
             {
               "node_type": "item",
@@ -268,7 +283,8 @@
                 "owner": "rpetrich",
                 "repo": "deciduous",
                 "stars": 235
-              }
+              },
+              "first_seen": "2026-08-29T00:37:07.429Z"
             },
             {
               "node_type": "item",
@@ -283,7 +299,8 @@
                 "owner": "dehydr8",
                 "repo": "elevation-of-privilege",
                 "stars": 165
-              }
+              },
+              "first_seen": "2026-08-29T00:37:07.429Z"
             },
             {
               "node_type": "item",
@@ -298,7 +315,8 @@
                 "owner": "rusakovichma",
                 "repo": "TicTaaC",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-29T00:37:07.429Z"
             },
             {
               "node_type": "item",
@@ -313,7 +331,8 @@
                 "owner": "devsecops",
                 "repo": "raindance",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-29T00:37:07.429Z"
             },
             {
               "node_type": "item",
@@ -328,7 +347,8 @@
                 "owner": "appsecco",
                 "repo": "owasp-threat-dragon-gitlab",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-29T00:37:07.429Z"
             },
             {
               "node_type": "item",
@@ -343,7 +363,8 @@
                 "owner": "izar",
                 "repo": "pytm",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-29T00:37:07.429Z"
             }
           ],
           "description": null,
@@ -355,7 +376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:02:48.099Z",
+    "last_updated": "2026-08-29T00:37:07.429Z",
     "original_repository_info": {
       "archived": false,
       "id": 230712512,
@@ -363,7 +384,7 @@
       "last_commit": "2024-08-02T19:02:17Z",
       "owner": "hysnsec",
       "repo": "awesome-threat-modelling",
-      "stars": 1802
+      "stars": 1803
     },
     "original_repository_sha": "c60fb0a82371c8ce557afbdfe903860ae959e9b3",
     "enhanced_repository": "enhansome/enhansome-threat-modelling",
