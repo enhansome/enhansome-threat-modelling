@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository stores content that can be used to design a Rapid Threat Model Prototyping process for a software development group.",
+                "homepage": null,
                 "id": 147913294,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-03-14T10:35:20Z",
+                "open_issues": 1,
                 "owner": "geoffrey-hill-tutamantic",
                 "repo": "rapid-threat-model-prototyping-docs",
-                "stars": 164
+                "stars": 164,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:37:07.429Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CodeMash 2019 - Threat Modeling Workshop materials",
+                "homepage": null,
                 "id": 163854310,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2019-01-09T16:46:23Z",
+                "open_issues": 0,
                 "owner": "rhurlbut",
                 "repo": "CodeMash2019",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:37:07.429Z"
             }
@@ -55,12 +65,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Threat matrix for CI/CD Pipeline",
+            "homepage": null,
             "id": 418565888,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-31T13:59:10Z",
+            "open_issues": 1,
             "owner": "rung",
             "repo": "threat-matrix-cicd",
-            "stars": 775
+            "stars": 775,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:37:07.429Z"
         },
@@ -71,12 +86,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://www.cidersecurity.io/top-10-cicd-security-risks/",
             "id": 469380734,
             "language": null,
+            "license": null,
             "last_commit": "2023-01-18T15:58:36Z",
+            "open_issues": 3,
             "owner": "cider-security-research",
             "repo": "top-10-cicd-security-risks",
-            "stars": 429
+            "stars": 429,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:37:07.429Z"
         },
@@ -87,12 +107,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "💰💸☁️ For those interested in running Kubernetes in highly regulated environments, particularly financial services",
+            "homepage": null,
             "id": 184290900,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2022-07-19T05:18:02Z",
+            "open_issues": 17,
             "owner": "cncf",
             "repo": "financial-user-group",
-            "stars": 313
+            "stars": 313,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:37:07.429Z"
         }
@@ -109,12 +134,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of public penetration test reports published by several consulting firms and academic security groups.",
+            "homepage": null,
             "id": 65019435,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-06-07T18:38:18Z",
+            "open_issues": 16,
             "owner": "juliocesarfort",
             "repo": "public-pentesting-reports",
-            "stars": 9699
+            "stars": 9699,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:37:07.429Z"
         },
@@ -125,12 +155,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Checklist for container security - devsecops practices",
+            "homepage": "https://krol3.github.io/container-security-checklist/",
             "id": 345480693,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2025-09-15T19:51:50Z",
+            "open_issues": 1,
             "owner": "krol3",
             "repo": "container-security-checklist",
-            "stars": 1620
+            "stars": 1620,
+            "topics": [
+              "containers",
+              "devsecops",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T00:37:07.429Z"
         },
@@ -141,12 +180,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This project is about creating and publishing threat model examples.",
+            "homepage": "https://owasp.org/www-project-threat-model-cookbook/",
             "id": 60265989,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-11-10T03:18:14Z",
+            "open_issues": 6,
             "owner": "OWASP",
             "repo": "threat-model-cookbook",
-            "stars": 429
+            "stars": 429,
+            "topics": [
+              "appsec",
+              "threat-model",
+              "threat-modeling",
+              "threat-modelling",
+              "threat-models"
+            ]
           },
           "first_seen": "2026-08-29T00:37:07.429Z"
         },
@@ -157,12 +207,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Process documentation, non-code deliverables, and miscellaneous artifacts of Kubernetes SIG Security",
+            "homepage": null,
             "id": 406153124,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T17:17:40Z",
+            "open_issues": 17,
             "owner": "kubernetes",
             "repo": "sig-security",
-            "stars": 249
+            "stars": 249,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:37:07.429Z"
         },
@@ -173,12 +228,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 110025384,
             "language": null,
+            "license": null,
             "last_commit": "2023-05-02T10:20:19Z",
+            "open_issues": 15,
             "owner": "JWWeatherman",
             "repo": "bitcoin_security_threat_model",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:37:07.429Z"
         },
@@ -189,12 +249,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small threat model for a smart home",
+            "homepage": null,
             "id": 211527425,
             "language": "Makefile",
+            "license": "CC-BY-4.0",
             "last_commit": "2019-10-08T14:57:01Z",
+            "open_issues": 0,
             "owner": "kkredit",
             "repo": "smart-home-threat-model",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:37:07.429Z"
         },
@@ -205,12 +270,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 111236559,
             "language": null,
+            "license": null,
             "last_commit": "2019-01-26T00:06:38Z",
+            "open_issues": 1,
             "owner": "JWWeatherman",
             "repo": "human_threat_model",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:37:07.429Z"
         },
@@ -221,12 +291,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "itemis SECURE Examples",
+            "homepage": "https://www.itemis.com/en/products/itemis-secure/",
             "id": 245139394,
             "language": "JetBrains MPS",
+            "license": null,
             "last_commit": "2026-08-21T22:40:29Z",
+            "open_issues": 2,
             "owner": "itemisCREATE",
             "repo": "itemis-SECURE-examples",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "iso21434",
+              "security",
+              "security-tools",
+              "tara"
+            ]
           },
           "first_seen": "2026-08-29T00:37:07.429Z"
         }
@@ -245,12 +325,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Draw.io libraries for threat modeling diagrams",
+                "homepage": "https://michenriksen.com/blog/drawio-for-threat-modeling/",
                 "id": 151041484,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2020-11-12T01:52:27Z",
+                "open_issues": 4,
                 "owner": "michenriksen",
                 "repo": "drawio-threatmodeling",
-                "stars": 803
+                "stars": 803,
+                "topics": [
+                  "attack-trees",
+                  "data-flow-diagram",
+                  "dfd",
+                  "diagramming",
+                  "drawio",
+                  "sdl",
+                  "threat-modeling"
+                ]
               },
               "first_seen": "2026-08-29T00:37:07.429Z"
             },
@@ -261,12 +354,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Agile Threat Modeling Toolkit",
+                "homepage": "https://threagile.io",
                 "id": 284951208,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-04-08T18:30:26Z",
+                "open_issues": 51,
                 "owner": "Threagile",
                 "repo": "threagile",
-                "stars": 779
+                "stars": 779,
+                "topics": [
+                  "agile",
+                  "architecture",
+                  "cicd",
+                  "devsecops",
+                  "infosec",
+                  "risk-analysis",
+                  "risk-management",
+                  "security",
+                  "threagile",
+                  "threat-modeling"
+                ]
               },
               "first_seen": "2026-08-29T00:37:07.429Z"
             },
@@ -277,12 +386,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "App that simplifies building decision trees to model adverse scenarios",
+                "homepage": "https://deciduous.app",
                 "id": 381168058,
                 "language": "HTML",
+                "license": "GPL-2.0",
                 "last_commit": "2024-07-11T09:33:36Z",
+                "open_issues": 9,
                 "owner": "rpetrich",
                 "repo": "deciduous",
-                "stars": 235
+                "stars": 235,
+                "topics": [
+                  "chaos-engineering",
+                  "resilience",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-29T00:37:07.429Z"
             },
@@ -293,12 +411,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An online multiplayer version of the Elevation of Privilege (EoP) threat modeling card game",
+                "homepage": null,
                 "id": 201052325,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-02T04:56:06Z",
+                "open_issues": 33,
                 "owner": "dehydr8",
                 "repo": "elevation-of-privilege",
-                "stars": 165
+                "stars": 165,
+                "topics": [
+                  "boardgame-io",
+                  "card-game",
+                  "eop",
+                  "stride",
+                  "threat-dragon",
+                  "threat-modeling"
+                ]
               },
               "first_seen": "2026-08-29T00:37:07.429Z"
             },
@@ -309,12 +439,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy-to-use Threat modeling-as-a-Code (TaaC) solution following DevSecOps principles. Simple CI/CD integration as well as console usage. Sugar-Free and Secure: no any external dependencies except for chart plotting are used",
+                "homepage": null,
                 "id": 400129809,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-25T09:59:40Z",
+                "open_issues": 5,
                 "owner": "rusakovichma",
                 "repo": "TicTaaC",
-                "stars": 73
+                "stars": 73,
+                "topics": [
+                  "application-security",
+                  "appsec",
+                  "devsecops",
+                  "secure-development",
+                  "threat",
+                  "threat-model",
+                  "threat-modeling",
+                  "threat-modeling-from-code",
+                  "threat-modeling-tool",
+                  "threat-models"
+                ]
               },
               "first_seen": "2026-08-29T00:37:07.429Z"
             },
@@ -325,12 +471,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Project intended to make Attack Maps part of software development by reducing the time it takes to complete them.",
+                "homepage": null,
                 "id": 55040255,
                 "language": "GCC Machine Description",
+                "license": "Apache-2.0",
                 "last_commit": "2016-11-24T16:14:05Z",
+                "open_issues": 2,
                 "owner": "devsecops",
                 "repo": "raindance",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:37:07.429Z"
             },
@@ -341,12 +492,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OWASP Threat Dragon with Gitlab Integration",
+                "homepage": null,
                 "id": 109265422,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2017-11-06T09:43:09Z",
+                "open_issues": 2,
                 "owner": "appsecco",
                 "repo": "owasp-threat-dragon-gitlab",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "gitlab",
+                  "security-tools",
+                  "threat-dragon"
+                ]
               },
               "first_seen": "2026-08-29T00:37:07.429Z"
             },
@@ -357,12 +517,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Pythonic framework for threat modeling",
+                "homepage": null,
                 "id": 1095940013,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-14T14:59:16Z",
+                "open_issues": 0,
                 "owner": "izar",
                 "repo": "pytm",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:37:07.429Z"
             }
@@ -376,15 +541,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:37:07.429Z",
+    "last_updated": "2026-08-29T04:28:46.923Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of threat modeling resources (Books, courses - free and paid, videos, tools, tutorials and workshops to practice on ) for learning Threat modeling and initial phases of security review.",
+      "homepage": "https://www.practical-devsecops.com/devsecops-university/",
       "id": 230712512,
       "language": "Dockerfile",
+      "license": "CC0-1.0",
       "last_commit": "2024-08-02T19:02:17Z",
+      "open_issues": 23,
       "owner": "hysnsec",
       "repo": "awesome-threat-modelling",
-      "stars": 1803
+      "stars": 1803,
+      "topics": [
+        "appsec",
+        "awesome",
+        "awesome-list",
+        "devsecops",
+        "devsecops-university",
+        "practical-devsecops",
+        "security-review",
+        "threat-modeling"
+      ]
     },
     "original_repository_sha": "c60fb0a82371c8ce557afbdfe903860ae959e9b3",
     "enhanced_repository": "enhansome/enhansome-threat-modelling",
