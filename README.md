@@ -193,13 +193,13 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 *Threat model examples for reference.*
 
-* [Threat Modeling Trinity](https://github.com/juliocesarfort/public-pentesting-reports/blob/master/COMSATS_Islamabad-CyberSecurityLab/Threat_Modeling_Trinity_Wallet.pdf) ⭐ 9,706 | 🐛 16 | 🌐 HTML | 📅 2026-06-07
+* [Threat Modeling Trinity](https://github.com/juliocesarfort/public-pentesting-reports/blob/master/COMSATS_Islamabad-CyberSecurityLab/Threat_Modeling_Trinity_Wallet.pdf) ⭐ 9,709 | 🐛 16 | 🌐 HTML | 📅 2026-06-07
 
 * [Container Threat Model](https://github.com/krol3/container-security-checklist#container-threat-model) ⭐ 1,620 | 🐛 1 | 📅 2025-09-15
 
 * [OWASP Threat Model Cookbook](https://github.com/OWASP/threat-model-cookbook) ⚠️ Archived
 
-* [Kubernetes Threat Model](https://github.com/kubernetes/sig-security/tree/main/sig-security-external-audit/security-audit-2019/findings) ⭐ 249 | 🐛 17 | 🌐 Go | 📅 2026-08-26
+* [Kubernetes Threat Model](https://github.com/kubernetes/sig-security/tree/main/sig-security-external-audit/security-audit-2019/findings) ⭐ 249 | 🐛 18 | 🌐 Go | 📅 2026-08-26
 
 * [Bitcoin](https://github.com/JWWeatherman/bitcoin_security_threat_model) ⭐ 78 | 🐛 15 | 📅 2023-05-02
 
@@ -255,7 +255,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 * [Deciduous](https://github.com/rpetrich/deciduous) ⭐ 235 | 🐛 9 | 🌐 HTML | 📅 2024-07-11 - A web app that simplifies building attack decision trees. Hosted at <https://www.deciduous.app/>
 
-* [Threat Modeling Online Game](https://github.com/dehydr8/elevation-of-privilege) ⭐ 165 | 🐛 33 | 🌐 JavaScript | 📅 2026-08-02 - Online version of the Elevation of Privilege and Cornucopia card games. The easy way to get started with threat modeling.
+* [Threat Modeling Online Game](https://github.com/dehydr8/elevation-of-privilege) ⭐ 167 | 🐛 33 | 🌐 JavaScript | 📅 2026-08-02 - Online version of the Elevation of Privilege and Cornucopia card games. The easy way to get started with threat modeling.
 
 * [TicTaaC](https://github.com/rusakovichma/TicTaaC) ⭐ 73 | 🐛 5 | 🌐 Java | 📅 2025-06-25 - Threat modeling-as-a-Code in a Tick (TicTaaC). Lightweight and easy-to-use Threat modeling solution following DevSecOps principles
 
@@ -291,4 +291,4 @@ Please refer the guidelines at [contributing.md for details](Contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._

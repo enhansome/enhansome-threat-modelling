@@ -143,7 +143,7 @@
             "open_issues": 16,
             "owner": "juliocesarfort",
             "repo": "public-pentesting-reports",
-            "stars": 9706,
+            "stars": 9709,
             "topics": []
           },
           "first_seen": "2026-08-29T00:37:07.429Z"
@@ -213,7 +213,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-26T17:17:40Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "kubernetes",
             "repo": "sig-security",
             "stars": 249,
@@ -420,7 +420,7 @@
                 "open_issues": 33,
                 "owner": "dehydr8",
                 "repo": "elevation-of-privilege",
-                "stars": 165,
+                "stars": 167,
                 "topics": [
                   "boardgame-io",
                   "card-game",
@@ -541,7 +541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T21:32:55.748Z",
+    "last_updated": "2026-09-01T19:28:18.125Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of threat modeling resources (Books, courses - free and paid, videos, tools, tutorials and workshops to practice on ) for learning Threat modeling and initial phases of security review.",
