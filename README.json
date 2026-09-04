@@ -143,7 +143,7 @@
             "open_issues": 16,
             "owner": "juliocesarfort",
             "repo": "public-pentesting-reports",
-            "stars": 9713,
+            "stars": 9714,
             "topics": []
           },
           "first_seen": "2026-08-29T00:37:07.429Z"
@@ -213,7 +213,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-26T17:17:40Z",
-            "open_issues": 18,
+            "open_issues": 20,
             "owner": "kubernetes",
             "repo": "sig-security",
             "stars": 249,
@@ -363,7 +363,7 @@
                 "open_issues": 51,
                 "owner": "Threagile",
                 "repo": "threagile",
-                "stars": 779,
+                "stars": 780,
                 "topics": [
                   "agile",
                   "architecture",
@@ -541,7 +541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T19:21:32.319Z",
+    "last_updated": "2026-09-04T19:03:05.405Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of threat modeling resources (Books, courses - free and paid, videos, tools, tutorials and workshops to practice on ) for learning Threat modeling and initial phases of security review.",
