@@ -74,7 +74,7 @@
             "open_issues": 1,
             "owner": "rung",
             "repo": "threat-matrix-cicd",
-            "stars": 776,
+            "stars": 775,
             "topics": []
           },
           "first_seen": "2026-08-29T00:37:07.429Z"
@@ -143,7 +143,7 @@
             "open_issues": 16,
             "owner": "juliocesarfort",
             "repo": "public-pentesting-reports",
-            "stars": 9723,
+            "stars": 9726,
             "topics": []
           },
           "first_seen": "2026-08-29T00:37:07.429Z"
@@ -541,7 +541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T19:11:04.804Z",
+    "last_updated": "2026-09-11T19:13:08.673Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of threat modeling resources (Books, courses - free and paid, videos, tools, tutorials and workshops to practice on ) for learning Threat modeling and initial phases of security review.",
@@ -553,7 +553,7 @@
       "open_issues": 22,
       "owner": "hysnsec",
       "repo": "awesome-threat-modelling",
-      "stars": 1808,
+      "stars": 1809,
       "topics": [
         "appsec",
         "awesome",
