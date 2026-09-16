@@ -541,7 +541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T19:46:23.427Z",
+    "last_updated": "2026-09-16T19:38:30.358Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of threat modeling resources (Books, courses - free and paid, videos, tools, tutorials and workshops to practice on ) for learning Threat modeling and initial phases of security review.",
@@ -550,7 +550,7 @@
       "language": "Dockerfile",
       "license": "CC0-1.0",
       "last_commit": "2024-08-02T19:02:17Z",
-      "open_issues": 22,
+      "open_issues": 23,
       "owner": "hysnsec",
       "repo": "awesome-threat-modelling",
       "stars": 1811,
