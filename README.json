@@ -164,7 +164,7 @@
             "open_issues": 1,
             "owner": "krol3",
             "repo": "container-security-checklist",
-            "stars": 1621,
+            "stars": 1622,
             "topics": [
               "containers",
               "devsecops",
@@ -189,7 +189,7 @@
             "open_issues": 6,
             "owner": "OWASP",
             "repo": "threat-model-cookbook",
-            "stars": 429,
+            "stars": 430,
             "topics": [
               "appsec",
               "threat-model",
@@ -541,7 +541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T19:47:30.864Z",
+    "last_updated": "2026-09-18T19:06:15.948Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of threat modeling resources (Books, courses - free and paid, videos, tools, tutorials and workshops to practice on ) for learning Threat modeling and initial phases of security review.",
