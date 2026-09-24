@@ -121,7 +121,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 * [Threat Matrix  CI/CD](https://github.com/rung/threat-matrix-cicd) ⭐ 772 | 🐛 1 | 📅 2026-05-31
 
-* [Top 10 CI/CD Security Risks](https://github.com/cider-security-research/top-10-cicd-security-risks) ⭐ 430 | 🐛 3 | 📅 2023-01-18
+* [Top 10 CI/CD Security Risks](https://github.com/cider-security-research/top-10-cicd-security-risks) ⭐ 429 | 🐛 3 | 📅 2023-01-18
 
 * [Kubernetes Attack Trees](https://github.com/cncf/financial-user-group/tree/main/projects/k8s-threat-model) ⚠️ Archived
 
@@ -193,13 +193,13 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 *Threat model examples for reference.*
 
-* [Threat Modeling Trinity](https://github.com/juliocesarfort/public-pentesting-reports/blob/master/COMSATS_Islamabad-CyberSecurityLab/Threat_Modeling_Trinity_Wallet.pdf) ⭐ 9,734 | 🐛 16 | 🌐 HTML | 📅 2026-06-07
+* [Threat Modeling Trinity](https://github.com/juliocesarfort/public-pentesting-reports/blob/master/COMSATS_Islamabad-CyberSecurityLab/Threat_Modeling_Trinity_Wallet.pdf) ⭐ 9,733 | 🐛 16 | 🌐 HTML | 📅 2026-06-07
 
-* [Container Threat Model](https://github.com/krol3/container-security-checklist#container-threat-model) ⭐ 1,621 | 🐛 1 | 📅 2025-09-15
+* [Container Threat Model](https://github.com/krol3/container-security-checklist#container-threat-model) ⭐ 1,622 | 🐛 1 | 📅 2025-09-15
 
 * [OWASP Threat Model Cookbook](https://github.com/OWASP/threat-model-cookbook) ⚠️ Archived
 
-* [Kubernetes Threat Model](https://github.com/kubernetes/sig-security/tree/main/sig-security-external-audit/security-audit-2019/findings) ⭐ 249 | 🐛 21 | 🌐 Go | 📅 2026-09-09
+* [Kubernetes Threat Model](https://github.com/kubernetes/sig-security/tree/main/sig-security-external-audit/security-audit-2019/findings) ⭐ 249 | 🐛 20 | 🌐 Go | 📅 2026-09-24
 
 * [Bitcoin](https://github.com/JWWeatherman/bitcoin_security_threat_model) ⭐ 78 | 🐛 15 | 📅 2023-05-02
 
@@ -291,4 +291,4 @@ Please refer the guidelines at [contributing.md for details](Contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
