@@ -95,7 +95,7 @@
             "open_issues": 3,
             "owner": "cider-security-research",
             "repo": "top-10-cicd-security-risks",
-            "stars": 429,
+            "stars": 430,
             "topics": []
           },
           "first_seen": "2026-08-29T00:37:07.429Z"
@@ -164,7 +164,7 @@
             "open_issues": 1,
             "owner": "krol3",
             "repo": "container-security-checklist",
-            "stars": 1623,
+            "stars": 1624,
             "topics": [
               "containers",
               "devsecops",
@@ -216,7 +216,7 @@
             "open_issues": 20,
             "owner": "kubernetes",
             "repo": "sig-security",
-            "stars": 249,
+            "stars": 250,
             "topics": []
           },
           "first_seen": "2026-08-29T00:37:07.429Z"
@@ -526,7 +526,7 @@
                 "open_issues": 0,
                 "owner": "izar",
                 "repo": "pytm",
-                "stars": 24,
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:37:07.429Z"
@@ -541,7 +541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T19:49:39.086Z",
+    "last_updated": "2026-09-28T22:13:03.592Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of threat modeling resources (Books, courses - free and paid, videos, tools, tutorials and workshops to practice on ) for learning Threat modeling and initial phases of security review.",
