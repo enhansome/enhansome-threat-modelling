@@ -193,7 +193,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 *Threat model examples for reference.*
 
-* [Threat Modeling Trinity](https://github.com/juliocesarfort/public-pentesting-reports/blob/master/COMSATS_Islamabad-CyberSecurityLab/Threat_Modeling_Trinity_Wallet.pdf) ⭐ 9,742 | 🐛 16 | 🌐 HTML | 📅 2026-06-07
+* [Threat Modeling Trinity](https://github.com/juliocesarfort/public-pentesting-reports/blob/master/COMSATS_Islamabad-CyberSecurityLab/Threat_Modeling_Trinity_Wallet.pdf) ⭐ 9,741 | 🐛 16 | 🌐 HTML | 📅 2026-06-07
 
 * [Container Threat Model](https://github.com/krol3/container-security-checklist#container-threat-model) ⭐ 1,625 | 🐛 1 | 📅 2025-09-15
 
@@ -251,9 +251,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 * [drawio-threatmodeling](https://github.com/michenriksen/drawio-threatmodeling) ⭐ 805 | 🐛 4 | 📅 2020-11-12 - A collection of custom libraries to turn the free and cross-platform Draw\.io diagramming application into the perfect tool for threat modeling.
 
-* [Threagile](https://github.com/Threagile/threagile) ⭐ 783 | 🐛 51 | 🌐 Go | 📅 2026-04-08 - Threagile is an open-source toolkit for agile threat modeling
+* [Threagile](https://github.com/Threagile/threagile) ⭐ 784 | 🐛 51 | 🌐 Go | 📅 2026-04-08 - Threagile is an open-source toolkit for agile threat modeling
 
-* [Deciduous](https://github.com/rpetrich/deciduous) ⭐ 236 | 🐛 9 | 🌐 HTML | 📅 2024-07-11 - A web app that simplifies building attack decision trees. Hosted at <https://www.deciduous.app/>
+* [Deciduous](https://github.com/rpetrich/deciduous) ⭐ 236 | 🐛 10 | 🌐 HTML | 📅 2024-07-11 - A web app that simplifies building attack decision trees. Hosted at <https://www.deciduous.app/>
 
 * [Threat Modeling Online Game](https://github.com/dehydr8/elevation-of-privilege) ⭐ 167 | 🐛 33 | 🌐 JavaScript | 📅 2026-08-02 - Online version of the Elevation of Privilege and Cornucopia card games. The easy way to get started with threat modeling.
 
@@ -291,4 +291,4 @@ Please refer the guidelines at [contributing.md for details](Contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
