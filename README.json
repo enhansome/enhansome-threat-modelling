@@ -29,7 +29,7 @@
             {
               "node_type": "item",
               "title": "Threat Modeling Workshop by Robert Hurlbut",
-              "description": null,
+              "description": "rhurlbut/CodeMash2019",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -61,7 +61,7 @@
         {
           "node_type": "item",
           "title": "Threat Matrix CI/CD",
-          "description": null,
+          "description": "rung/threat-matrix-cicd",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -82,7 +82,7 @@
         {
           "node_type": "item",
           "title": "Top 10 CI/CD Security Risks",
-          "description": null,
+          "description": "cider-security-research/top-10-cicd-security-risks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -103,7 +103,7 @@
         {
           "node_type": "item",
           "title": "Kubernetes Attack Trees",
-          "description": null,
+          "description": "cncf/financial-user-group",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -130,7 +130,7 @@
         {
           "node_type": "item",
           "title": "Threat Modeling Trinity",
-          "description": null,
+          "description": "juliocesarfort/public-pentesting-reports",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -151,7 +151,7 @@
         {
           "node_type": "item",
           "title": "Container Threat Model",
-          "description": null,
+          "description": "krol3/container-security-checklist",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -176,7 +176,7 @@
         {
           "node_type": "item",
           "title": "OWASP Threat Model Cookbook",
-          "description": null,
+          "description": "OWASP/threat-model-cookbook",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -203,7 +203,7 @@
         {
           "node_type": "item",
           "title": "Kubernetes Threat Model",
-          "description": null,
+          "description": "kubernetes/sig-security",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -224,7 +224,7 @@
         {
           "node_type": "item",
           "title": "Bitcoin",
-          "description": null,
+          "description": "JWWeatherman/bitcoin_security_threat_model",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -245,7 +245,7 @@
         {
           "node_type": "item",
           "title": "Smart Home Threat Model",
-          "description": null,
+          "description": "kkredit/smart-home-threat-model",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -266,7 +266,7 @@
         {
           "node_type": "item",
           "title": "Human Threat Model",
-          "description": null,
+          "description": "JWWeatherman/human_threat_model",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -287,7 +287,7 @@
         {
           "node_type": "item",
           "title": "ISO/SAE 21434 Annex G Example",
-          "description": null,
+          "description": "itemisCREATE/itemis-SECURE-examples",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -363,7 +363,7 @@
                 "open_issues": 51,
                 "owner": "Threagile",
                 "repo": "threagile",
-                "stars": 784,
+                "stars": 785,
                 "topics": [
                   "agile",
                   "architecture",
@@ -541,7 +541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:52:20.527Z",
+    "last_updated": "2026-10-03T05:09:26.188Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of threat modeling resources (Books, courses - free and paid, videos, tools, tutorials and workshops to practice on ) for learning Threat modeling and initial phases of security review.",
