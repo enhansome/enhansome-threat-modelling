@@ -43,7 +43,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Free
 
-* [Rapid Threat Model Prototyping (RTMP)](https://github.com/geoffrey-hill-tutamantic/rapid-threat-model-prototyping-docs) ⭐ 164 | 🐛 1 | 📅 2023-03-14 - Methodology to create quick threat models (1) add threat metadata describing the threats and mitigations directly to software diagrams using 11 simple and repeatable steps (2) integrate these steps into Agile workstreams (3) how to best use the outputs of a threat model (Threats & Mitigations)
+* [Rapid Threat Model Prototyping (RTMP)](https://github.com/geoffrey-hill-tutamantic/rapid-threat-model-prototyping-docs) ⭐ 163 | 🐛 1 | 📅 2023-03-14 - Methodology to create quick threat models (1) add threat metadata describing the threats and mitigations directly to software diagrams using 11 simple and repeatable steps (2) integrate these steps into Agile workstreams (3) how to best use the outputs of a threat model (Threats & Mitigations)
 
 * [Threat Modeling Workshop by Robert Hurlbut](https://github.com/rhurlbut/CodeMash2019/blob/master/Robert-Hurlbut-CodeMash2019-Threat-Modeling-Workshop-20190108.pdf) ⭐ 6 | 🐛 0 | 📅 2019-01-09
 
@@ -193,7 +193,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 *Threat model examples for reference.*
 
-* [Threat Modeling Trinity](https://github.com/juliocesarfort/public-pentesting-reports/blob/master/COMSATS_Islamabad-CyberSecurityLab/Threat_Modeling_Trinity_Wallet.pdf) ⭐ 9,744 | 🐛 16 | 🌐 HTML | 📅 2026-06-07
+* [Threat Modeling Trinity](https://github.com/juliocesarfort/public-pentesting-reports/blob/master/COMSATS_Islamabad-CyberSecurityLab/Threat_Modeling_Trinity_Wallet.pdf) ⭐ 9,745 | 🐛 16 | 🌐 HTML | 📅 2026-06-07
 
 * [Container Threat Model](https://github.com/krol3/container-security-checklist#container-threat-model) ⭐ 1,625 | 🐛 1 | 📅 2025-09-15
 
