@@ -189,7 +189,7 @@
             "open_issues": 6,
             "owner": "OWASP",
             "repo": "threat-model-cookbook",
-            "stars": 430,
+            "stars": 431,
             "topics": [
               "appsec",
               "threat-model",
@@ -541,7 +541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T19:20:01.020Z",
+    "last_updated": "2026-10-04T19:44:30.315Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of threat modeling resources (Books, courses - free and paid, videos, tools, tutorials and workshops to practice on ) for learning Threat modeling and initial phases of security review.",
@@ -553,7 +553,7 @@
       "open_issues": 24,
       "owner": "hysnsec",
       "repo": "awesome-threat-modelling",
-      "stars": 1821,
+      "stars": 1822,
       "topics": [
         "appsec",
         "awesome",
