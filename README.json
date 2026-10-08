@@ -95,7 +95,7 @@
             "open_issues": 3,
             "owner": "cider-security-research",
             "repo": "top-10-cicd-security-risks",
-            "stars": 430,
+            "stars": 431,
             "topics": []
           },
           "first_seen": "2026-08-29T00:37:07.429Z"
@@ -363,7 +363,7 @@
                 "open_issues": 51,
                 "owner": "Threagile",
                 "repo": "threagile",
-                "stars": 785,
+                "stars": 786,
                 "topics": [
                   "agile",
                   "architecture",
@@ -541,7 +541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T21:27:56.643Z",
+    "last_updated": "2026-10-08T21:25:53.196Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of threat modeling resources (Books, courses - free and paid, videos, tools, tutorials and workshops to practice on ) for learning Threat modeling and initial phases of security review.",
@@ -553,7 +553,7 @@
       "open_issues": 24,
       "owner": "hysnsec",
       "repo": "awesome-threat-modelling",
-      "stars": 1823,
+      "stars": 1826,
       "topics": [
         "appsec",
         "awesome",
