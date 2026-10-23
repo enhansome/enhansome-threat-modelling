@@ -143,7 +143,7 @@
             "open_issues": 16,
             "owner": "juliocesarfort",
             "repo": "public-pentesting-reports",
-            "stars": 9786,
+            "stars": 9787,
             "topics": []
           },
           "first_seen": "2026-08-29T00:37:07.429Z"
@@ -541,7 +541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T20:14:25.631Z",
+    "last_updated": "2026-10-23T20:01:16.080Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of threat modeling resources (Books, courses - free and paid, videos, tools, tutorials and workshops to practice on ) for learning Threat modeling and initial phases of security review.",
