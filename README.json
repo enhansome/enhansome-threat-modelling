@@ -143,7 +143,7 @@
             "open_issues": 16,
             "owner": "juliocesarfort",
             "repo": "public-pentesting-reports",
-            "stars": 9798,
+            "stars": 9800,
             "topics": []
           },
           "first_seen": "2026-08-29T00:37:07.429Z"
@@ -164,7 +164,7 @@
             "open_issues": 1,
             "owner": "krol3",
             "repo": "container-security-checklist",
-            "stars": 1627,
+            "stars": 1626,
             "topics": [
               "containers",
               "devsecops",
@@ -334,7 +334,7 @@
                 "open_issues": 4,
                 "owner": "michenriksen",
                 "repo": "drawio-threatmodeling",
-                "stars": 806,
+                "stars": 805,
                 "topics": [
                   "attack-trees",
                   "data-flow-diagram",
@@ -363,7 +363,7 @@
                 "open_issues": 51,
                 "owner": "Threagile",
                 "repo": "threagile",
-                "stars": 784,
+                "stars": 785,
                 "topics": [
                   "agile",
                   "architecture",
@@ -541,7 +541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T20:10:08.668Z",
+    "last_updated": "2026-11-01T20:41:51.689Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of threat modeling resources (Books, courses - free and paid, videos, tools, tutorials and workshops to practice on ) for learning Threat modeling and initial phases of security review.",
@@ -553,7 +553,7 @@
       "open_issues": 24,
       "owner": "hysnsec",
       "repo": "awesome-threat-modelling",
-      "stars": 1831,
+      "stars": 1832,
       "topics": [
         "appsec",
         "awesome",
