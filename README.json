@@ -334,7 +334,7 @@
                 "open_issues": 4,
                 "owner": "michenriksen",
                 "repo": "drawio-threatmodeling",
-                "stars": 807,
+                "stars": 806,
                 "topics": [
                   "attack-trees",
                   "data-flow-diagram",
@@ -363,7 +363,7 @@
                 "open_issues": 51,
                 "owner": "Threagile",
                 "repo": "threagile",
-                "stars": 786,
+                "stars": 787,
                 "topics": [
                   "agile",
                   "architecture",
@@ -541,7 +541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T21:41:54.561Z",
+    "last_updated": "2026-11-07T20:24:20.680Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of threat modeling resources (Books, courses - free and paid, videos, tools, tutorials and workshops to practice on ) for learning Threat modeling and initial phases of security review.",
