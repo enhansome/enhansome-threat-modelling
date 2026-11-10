@@ -193,7 +193,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 *Threat model examples for reference.*
 
-* [Threat Modeling Trinity](https://github.com/juliocesarfort/public-pentesting-reports/blob/master/COMSATS_Islamabad-CyberSecurityLab/Threat_Modeling_Trinity_Wallet.pdf) ⭐ 9,808 | 🐛 16 | 🌐 HTML | 📅 2026-06-07
+* [Threat Modeling Trinity](https://github.com/juliocesarfort/public-pentesting-reports/blob/master/COMSATS_Islamabad-CyberSecurityLab/Threat_Modeling_Trinity_Wallet.pdf) ⭐ 9,810 | 🐛 16 | 🌐 HTML | 📅 2026-06-07
 
 * [Container Threat Model](https://github.com/krol3/container-security-checklist#container-threat-model) ⭐ 1,626 | 🐛 1 | 📅 2025-09-15
 
@@ -203,9 +203,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 * [Bitcoin](https://github.com/JWWeatherman/bitcoin_security_threat_model) ⭐ 79 | 🐛 15 | 📅 2023-05-02
 
-* [Smart Home Threat Model](https://github.com/kkredit/smart-home-threat-model) ⭐ 22 | 🐛 0 | 🌐 Makefile | 📅 2019-10-08
+* [Smart Home Threat Model](https://github.com/kkredit/smart-home-threat-model) ⭐ 23 | 🐛 0 | 🌐 Makefile | 📅 2019-10-08
 
-* [Human Threat Model](https://github.com/JWWeatherman/human_threat_model) ⭐ 17 | 🐛 1 | 📅 2019-01-26
+* [Human Threat Model](https://github.com/JWWeatherman/human_threat_model) ⭐ 18 | 🐛 1 | 📅 2019-01-26
 
 * [ISO/SAE 21434 Annex G Example](https://github.com/Yakindu/YSA-examples) ⭐ 13 | 🐛 2 | 🌐 JetBrains MPS | 📅 2026-08-21
 
@@ -263,7 +263,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 * [Owasp-threat-dragon-gitlab](https://github.com/appsecco/owasp-threat-dragon-gitlab) ⭐ 27 | 🐛 2 | 🌐 JavaScript | 📅 2017-11-06 - This project is a fork of the original OWASP Threat Dragon web application by Mike Goodwin with Gitlab integration instead of GitHub. You can use it with the Gitlab.com or your own instance of Gitlab.
 
-* [PyTM](https://github.com/izar/pytm) ⭐ 27 | 🐛 1 | 🌐 Python | 📅 2026-11-01 - PyTM is an open source project providing a library for threat modeling with code. Describe your system using OO syntax (object.property = value) and have your threat modeling report automatically generated. 100+ threats currently supported.
+* [PyTM](https://github.com/izar/pytm) ⭐ 27 | 🐛 1 | 🌐 Python | 📅 2026-11-10 - PyTM is an open source project providing a library for threat modeling with code. Describe your system using OO syntax (object.property = value) and have your threat modeling report automatically generated. 100+ threats currently supported.
 
 * [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/) - An online threat modelling web application including system diagramming and a rule engine to auto-generate threats/mitigations.
 
