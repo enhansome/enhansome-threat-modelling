@@ -541,7 +541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T22:23:19.171Z",
+    "last_updated": "2026-11-13T22:03:56.521Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of threat modeling resources (Books, courses - free and paid, videos, tools, tutorials and workshops to practice on ) for learning Threat modeling and initial phases of security review.",
@@ -553,7 +553,7 @@
       "open_issues": 26,
       "owner": "hysnsec",
       "repo": "awesome-threat-modelling",
-      "stars": 1838,
+      "stars": 1839,
       "topics": [
         "appsec",
         "awesome",
