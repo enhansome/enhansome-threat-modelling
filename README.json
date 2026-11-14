@@ -392,7 +392,7 @@
                 "language": "HTML",
                 "license": "GPL-2.0",
                 "last_commit": "2024-07-11T09:33:36Z",
-                "open_issues": 10,
+                "open_issues": 9,
                 "owner": "rpetrich",
                 "repo": "deciduous",
                 "stars": 237,
@@ -541,7 +541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T22:03:56.521Z",
+    "last_updated": "2026-11-14T20:51:54.137Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of threat modeling resources (Books, courses - free and paid, videos, tools, tutorials and workshops to practice on ) for learning Threat modeling and initial phases of security review.",

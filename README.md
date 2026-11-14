@@ -253,7 +253,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 * [Threagile](https://github.com/Threagile/threagile) ⭐ 787 | 🐛 51 | 🌐 Go | 📅 2026-04-08 - Threagile is an open-source toolkit for agile threat modeling
 
-* [Deciduous](https://github.com/rpetrich/deciduous) ⭐ 237 | 🐛 10 | 🌐 HTML | 📅 2024-07-11 - A web app that simplifies building attack decision trees. Hosted at <https://www.deciduous.app/>
+* [Deciduous](https://github.com/rpetrich/deciduous) ⭐ 237 | 🐛 9 | 🌐 HTML | 📅 2024-07-11 - A web app that simplifies building attack decision trees. Hosted at <https://www.deciduous.app/>
 
 * [Threat Modeling Online Game](https://github.com/dehydr8/elevation-of-privilege) ⭐ 166 | 🐛 33 | 🌐 JavaScript | 📅 2026-10-22 - Online version of the Elevation of Privilege and Cornucopia card games. The easy way to get started with threat modeling.
 
@@ -291,4 +291,4 @@ Please refer the guidelines at [contributing.md for details](Contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
