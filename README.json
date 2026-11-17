@@ -258,7 +258,7 @@
             "open_issues": 0,
             "owner": "kkredit",
             "repo": "smart-home-threat-model",
-            "stars": 23,
+            "stars": 24,
             "topics": []
           },
           "first_seen": "2026-08-29T00:37:07.429Z"
@@ -541,7 +541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T00:21:58.843Z",
+    "last_updated": "2026-11-17T23:36:18.784Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of threat modeling resources (Books, courses - free and paid, videos, tools, tutorials and workshops to practice on ) for learning Threat modeling and initial phases of security review.",
@@ -553,7 +553,7 @@
       "open_issues": 26,
       "owner": "hysnsec",
       "repo": "awesome-threat-modelling",
-      "stars": 1841,
+      "stars": 1842,
       "topics": [
         "appsec",
         "awesome",

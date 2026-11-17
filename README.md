@@ -203,7 +203,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 * [Bitcoin](https://github.com/JWWeatherman/bitcoin_security_threat_model) ⭐ 79 | 🐛 15 | 📅 2023-05-02
 
-* [Smart Home Threat Model](https://github.com/kkredit/smart-home-threat-model) ⭐ 23 | 🐛 0 | 🌐 Makefile | 📅 2019-10-08
+* [Smart Home Threat Model](https://github.com/kkredit/smart-home-threat-model) ⭐ 24 | 🐛 0 | 🌐 Makefile | 📅 2019-10-08
 
 * [Human Threat Model](https://github.com/JWWeatherman/human_threat_model) ⭐ 18 | 🐛 1 | 📅 2019-01-26
 
