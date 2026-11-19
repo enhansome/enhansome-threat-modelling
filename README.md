@@ -119,9 +119,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 *Tutorials and blogs that explain threat modeling*
 
-* [Threat Matrix  CI/CD](https://github.com/rung/threat-matrix-cicd) ⭐ 773 | 🐛 1 | 📅 2026-05-31
+* [Threat Matrix  CI/CD](https://github.com/rung/threat-matrix-cicd) ⭐ 772 | 🐛 1 | 📅 2026-05-31
 
-* [Top 10 CI/CD Security Risks](https://github.com/cider-security-research/top-10-cicd-security-risks) ⭐ 434 | 🐛 3 | 📅 2023-01-18
+* [Top 10 CI/CD Security Risks](https://github.com/cider-security-research/top-10-cicd-security-risks) ⭐ 433 | 🐛 3 | 📅 2023-01-18
 
 * [Kubernetes Attack Trees](https://github.com/cncf/financial-user-group/tree/main/projects/k8s-threat-model) ⚠️ Archived
 
@@ -193,13 +193,13 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 *Threat model examples for reference.*
 
-* [Threat Modeling Trinity](https://github.com/juliocesarfort/public-pentesting-reports/blob/master/COMSATS_Islamabad-CyberSecurityLab/Threat_Modeling_Trinity_Wallet.pdf) ⭐ 9,820 | 🐛 16 | 🌐 HTML | 📅 2026-06-07
+* [Threat Modeling Trinity](https://github.com/juliocesarfort/public-pentesting-reports/blob/master/COMSATS_Islamabad-CyberSecurityLab/Threat_Modeling_Trinity_Wallet.pdf) ⭐ 9,821 | 🐛 16 | 🌐 HTML | 📅 2026-06-07
 
-* [Container Threat Model](https://github.com/krol3/container-security-checklist#container-threat-model) ⭐ 1,626 | 🐛 1 | 📅 2025-09-15
+* [Container Threat Model](https://github.com/krol3/container-security-checklist#container-threat-model) ⭐ 1,625 | 🐛 1 | 📅 2025-09-15
 
 * [OWASP Threat Model Cookbook](https://github.com/OWASP/threat-model-cookbook) ⚠️ Archived
 
-* [Kubernetes Threat Model](https://github.com/kubernetes/sig-security/tree/main/sig-security-external-audit/security-audit-2019/findings) ⭐ 253 | 🐛 20 | 🌐 Go | 📅 2026-09-24
+* [Kubernetes Threat Model](https://github.com/kubernetes/sig-security/tree/main/sig-security-external-audit/security-audit-2019/findings) ⭐ 254 | 🐛 20 | 🌐 Go | 📅 2026-09-24
 
 * [Bitcoin](https://github.com/JWWeatherman/bitcoin_security_threat_model) ⭐ 79 | 🐛 15 | 📅 2023-05-02
 
@@ -251,7 +251,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 * [drawio-threatmodeling](https://github.com/michenriksen/drawio-threatmodeling) ⭐ 808 | 🐛 4 | 📅 2020-11-12 - A collection of custom libraries to turn the free and cross-platform Draw\.io diagramming application into the perfect tool for threat modeling.
 
-* [Threagile](https://github.com/Threagile/threagile) ⭐ 788 | 🐛 51 | 🌐 Go | 📅 2026-04-08 - Threagile is an open-source toolkit for agile threat modeling
+* [Threagile](https://github.com/Threagile/threagile) ⭐ 787 | 🐛 51 | 🌐 Go | 📅 2026-04-08 - Threagile is an open-source toolkit for agile threat modeling
 
 * [Deciduous](https://github.com/rpetrich/deciduous) ⭐ 237 | 🐛 9 | 🌐 HTML | 📅 2024-07-11 - A web app that simplifies building attack decision trees. Hosted at <https://www.deciduous.app/>
 
@@ -291,4 +291,4 @@ Please refer the guidelines at [contributing.md for details](Contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
