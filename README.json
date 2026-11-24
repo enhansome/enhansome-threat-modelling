@@ -143,7 +143,7 @@
             "open_issues": 16,
             "owner": "juliocesarfort",
             "repo": "public-pentesting-reports",
-            "stars": 9827,
+            "stars": 9826,
             "topics": []
           },
           "first_seen": "2026-08-29T00:37:07.429Z"
@@ -334,7 +334,7 @@
                 "open_issues": 4,
                 "owner": "michenriksen",
                 "repo": "drawio-threatmodeling",
-                "stars": 808,
+                "stars": 807,
                 "topics": [
                   "attack-trees",
                   "data-flow-diagram",
@@ -541,7 +541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T21:55:37.595Z",
+    "last_updated": "2026-11-24T02:59:02.474Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of threat modeling resources (Books, courses - free and paid, videos, tools, tutorials and workshops to practice on ) for learning Threat modeling and initial phases of security review.",
