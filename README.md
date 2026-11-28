@@ -193,7 +193,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 *Threat model examples for reference.*
 
-* [Threat Modeling Trinity](https://github.com/juliocesarfort/public-pentesting-reports/blob/master/COMSATS_Islamabad-CyberSecurityLab/Threat_Modeling_Trinity_Wallet.pdf) ⭐ 9,835 | 🐛 16 | 🌐 HTML | 📅 2026-06-07
+* [Threat Modeling Trinity](https://github.com/juliocesarfort/public-pentesting-reports/blob/master/COMSATS_Islamabad-CyberSecurityLab/Threat_Modeling_Trinity_Wallet.pdf) ⭐ 9,838 | 🐛 16 | 🌐 HTML | 📅 2026-06-07
 
 * [Container Threat Model](https://github.com/krol3/container-security-checklist#container-threat-model) ⭐ 1,627 | 🐛 1 | 📅 2025-09-15
 
@@ -207,7 +207,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 * [Human Threat Model](https://github.com/JWWeatherman/human_threat_model) ⭐ 18 | 🐛 1 | 📅 2019-01-26
 
-* [ISO/SAE 21434 Annex G Example](https://github.com/Yakindu/YSA-examples) ⭐ 13 | 🐛 2 | 🌐 JetBrains MPS | 📅 2026-11-25
+* [ISO/SAE 21434 Annex G Example](https://github.com/Yakindu/YSA-examples) ⭐ 13 | 🐛 2 | 🌐 JetBrains MPS | 📅 2026-11-27
 
 * [DNS Security: Threat Modeling DNSSEC, DoT, and DoH](https://www.netmeister.org/blog/doh-dot-dnssec.html)
 
@@ -291,4 +291,4 @@ Please refer the guidelines at [contributing.md for details](Contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
